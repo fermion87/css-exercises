@@ -1,0 +1,18 @@
+.class1 {
+    background-color: lightcoral;
+}
+
+.large-font {
+    font-size: 32px;
+}
+
+#num2 {
+    font-size: 50px;
+    color: blue;
+}
+
+#num4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
